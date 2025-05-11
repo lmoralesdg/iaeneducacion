@@ -47,7 +47,7 @@ Esta página web presenta mi experiencia personal con la inteligencia artificial
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/iaeneducacion.git
+   git clone https://github.com/lmoralesdg/iaeneducacion.git
    ```
 
 2. Navega al directorio del proyecto:
@@ -82,7 +82,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 - [Mi Página Personal](https://lmoralesdg.github.io/aymfuan/)
 - [Página del Curso](https://emersonuan.github.io/firstwebpage/)
-- [Página en Vivo](https://tu-usuario.github.io/iaeneducacion/iaeneducacion.html)
+- [Página en Vivo](https://lmoralesdg.github.io/iaeneducacion/index.html)
 
 ## Contacto
 
